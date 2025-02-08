@@ -1,1 +1,3 @@
-# Data-Analysis-using-Excel
+Vrinda Store Sales Analysis & Interactive Dashboard in Excel
+
+
